@@ -3,8 +3,8 @@ A .NET client for Wolt.
 
 - [Documentation](https://developer.wolt.com/)
 
-[ ] Partner API
-[ ] Drive API
+- [ ] Partner API
+- [ ] Drive API
 
 # Example
 
