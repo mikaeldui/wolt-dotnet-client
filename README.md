@@ -1,5 +1,5 @@
 # Wolt .NET Client (independent)
-A .NET client for Wolt.
+A .NET client for Wolt (DoorDash).
 
 - [Documentation](https://developer.wolt.com/)
 
@@ -11,10 +11,8 @@ A .NET client for Wolt.
 Of Partner API usage:
 
 ```c-sharp
-
 using WoltPartnerClient woltPartnerClient = new("mySecret");
 var orders = await woltPartnerClient.Orders.GetOrdersAsync();
-
 ```
 
 Of Drive API usage:
